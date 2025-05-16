@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Zuneail Wahid.
+Hi! My name is Zuneail Wahid.  
 I'm a senior at CUNY Queens College pursuing a Bachelor of Arts in Computer Science. 
 
 
