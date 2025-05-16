@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a senior student at CUNY Queens College pursuing a Bachelor of Arts in Computer Science 
+Hi! My name is Zuneail Wahid.
+I'm a senior at CUNY Queens College pursuing a Bachelor of Arts in Computer Science. 
 
 
 ## 🌐 Socials:
